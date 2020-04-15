@@ -1,0 +1,15 @@
+name: moor_extended
+description: Extended functionality of awesome moor package.
+version: 0.1.0-dev
+homepage: https://github.com/Terran-Source/moor-extended
+repository: https://github.com/Terran-Source/moor-extended
+issue_tracker: https://github.com/Terran-Source/moor-extended/issues
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  moor: ^2.4.2
+
+dev_dependencies:
+  test: ^1.14.2
